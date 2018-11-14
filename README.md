@@ -1,2 +1,1 @@
-# Stereo-Speaker
-Audio amplifier project
+# Stereo-Amplifier
